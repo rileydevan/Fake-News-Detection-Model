@@ -1,0 +1,25 @@
+# requirements.txt - Python Dependencies
+
+# Core
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# LLM and NLP
+ollama>=0.1.6
+transformers>=4.35.0
+torch>=2.0.0
+sentence-transformers>=2.2.2
+
+# Vector Search
+faiss-cpu>=1.7.4
+
+# API and Web
+requests>=2.31.0
+
+# Visualization
+pyvis>=0.3.2
+matplotlib>=3.7.0
+
+# Utilities
+tqdm>=4.65.0
